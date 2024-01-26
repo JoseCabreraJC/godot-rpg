@@ -1,0 +1,9 @@
+[gd_resource type="Resource" script_class="CombatAction" load_steps=2 format=3 uid="uid://q6uaf8npgdp3"]
+
+[ext_resource type="Script" path="res://CombatAction.gd" id="1_eu3sd"]
+
+[resource]
+script = ExtResource("1_eu3sd")
+display_name = "Slash (5 DMG)"
+damage_amount = 5
+heal_amount = 0
